@@ -1,6 +1,6 @@
 # Rock paper scissors
 
-![RPS](photo/rps.png)
+![rpss](photo/rpss.jpg)
 
 I made a simple rock paper scissors game by using the randint function choose a random number and makeing that number either rock, paper or scissors.
 The idea to correlate the items with the numbers just popped up into my head one day and I wrote it down.
